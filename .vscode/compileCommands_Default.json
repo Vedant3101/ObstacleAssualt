@@ -1,0 +1,42 @@
+[
+	{
+		"file": "E:\\Unreal\\ObstacleAssualt\\Source\\ObstacleAssualt\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\ObstacleAssualt\\.vscode\\compileCommands_Default\\ObstacleAssualt.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\ObstacleAssualt\\Source\\ObstacleAssualt\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\ObstacleAssualt\\.vscode\\compileCommands_Default\\ObstacleAssualt.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\ObstacleAssualt\\Source\\ObstacleAssualt\\ObstacleAssualt.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\ObstacleAssualt\\.vscode\\compileCommands_Default\\ObstacleAssualt.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\ObstacleAssualt\\Source\\ObstacleAssualt\\ObstacleAssualt.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\ObstacleAssualt\\.vscode\\compileCommands_Default\\ObstacleAssualt.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\ObstacleAssualt\\Source\\ObstacleAssualt\\ObstacleAssualt.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\ObstacleAssualt\\.vscode\\compileCommands_Default\\ObstacleAssualt.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	}
+]
